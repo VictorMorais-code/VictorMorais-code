@@ -1,24 +1,14 @@
 # 👋 Olá, eu sou o Victor!  
 
 🎯 **Desenvolvedor Frontend | React.js | JavaScript**  
-🚀 **Estudando Ract.js**  
 
 ---
-
-## 🚀 Sobre mim  
-🎯 Atualmente, estou migrando para a área de tecnologia, focado em desenvolvimento web e React.js. Tenho experiência em criação de **landpages** usando WordPress e já desenvolvi **projetos pessoais e de estudo** para aprimorar minhas habilidades.  
 
 💻 Tenho conhecimento em:  
 - **HTML | CSS | JavaScript | Vite**
 - **Git | GitHub | Tailwind CSS**
 - **(aprendendo 🚀 React.js | SQL)**
-  
-🎵 Além da tecnologia, sou músico profissional, profissão que desempenho atualmente.
-
----
-
-💡 Meu objetivo é contribuir com projetos inovadores e desenvolver soluções eficientes. Estou sempre aprendendo e evoluindo!  
-
+- 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
