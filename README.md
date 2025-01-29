@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Victor!  
 
-🎯 **Desenvolvedor Frontend | React.js | JavaScript**  
+🎯 **Desenvolvedor Frontend 
 
 ---
 
