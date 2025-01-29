@@ -5,8 +5,8 @@
 ---
 
 💻 Tenho conhecimento em:  
-- **HTML | CSS | JavaScript | Vite**
-- **Git | GitHub | Tailwind CSS**
+- **HTML | CSS | JavaScript | Python**
+- **Git | GitHub | Tailwind CSS | Vite**
 - **Aprendendo 🚀 React.js | SQL**
 - **Inglês básico**
 ---
