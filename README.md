@@ -8,6 +8,7 @@
 - **HTML | CSS | JavaScript | Vite**
 - **Git | GitHub | Tailwind CSS**
 - **Aprendendo 🚀 React.js | SQL**
+- **Inglês básico**
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
