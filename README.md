@@ -24,8 +24,8 @@
 ## 📊 Minhas Estatísticas no GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais-code&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais-code&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ---
