@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Onde me encontrar?  
-📩 **E-mail**: victorm.morais@outlook.com.br  
+📩 **E-mail**: victor.manso@outlook.com.br  
 🚀 **Portfólio**: https://victormorais-code.github.io/Portfolio/
