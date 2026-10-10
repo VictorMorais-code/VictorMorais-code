@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência prática
 - **HTML | CSS | JavaScript**
 - **Git | GitHub | Tailwind CSS | Vite**
 - **Aprendendo React.js | Next.js**
-- **Inglês básico**
+- **Inglês intermediário**
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
