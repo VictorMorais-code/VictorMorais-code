@@ -1,13 +1,15 @@
 # 👋 Olá, eu sou o Victor!  
 
-🎯 **Desenvolvedor Frontend**
+Desenvolvedor de Software em formação | Graduado em Análise e Desenvolvimento de Sistemas
+
+Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência prática em projetos pessoais utilizando JavaScript, React, Next.js, Tailwind CSS e PostgreSQL. Atualmente, estou aprimorando minhas habilidades em engenharia de software, APIs e desenvolvimento backend. Sempre buscando aprender, criar soluções e enfrentar novos desafios.
 
 ---
 
 💻 Tenho conhecimento em:  
 - **HTML | CSS | JavaScript**
 - **Git | GitHub | Tailwind CSS | Vite**
-- **Aprendendo 🚀 React.js | Next.js**
+- **Aprendendo React.js | Next.js**
 - **Inglês básico**
 ---
 
