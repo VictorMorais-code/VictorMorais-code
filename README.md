@@ -10,8 +10,11 @@ Tenho conhecimento em:
 - **HTML | CSS | JavaScript | Typescript**
 - **Git | GitHub | Tailwind CSS | Vite | Prisma | Supabase**
 - **Aprendendo React.js | Next.js**
+
+Idiomas:
+- **Português Nativo**
 - **Inglês intermediário**
----
+- **Francês básico**
 
 ## Minhas Estatísticas no GitHub  
 
