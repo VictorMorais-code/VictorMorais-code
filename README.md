@@ -1,15 +1,13 @@
 # Olá, eu sou o Victor!  
 
-Desenvolvedor de Software em formação | Graduado em Análise e Desenvolvimento de Sistemas
-
-Tenho experiência prática em projetos pessoais utilizando JavaScript, React, Next.js, Tailwind CSS. Atualmente, estou aprimorando minhas habilidades em engenharia de software, APIs e desenvolvimento backend. Sempre buscando aprender, criar soluções e enfrentar novos desafios.
-
+Desenvolvedor de Software
+Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software. Tenho foco em desenvolvimento web com JavaScript, React e Next.js, além de interesse em inteligência artificial aplicada ao desenvolvimento de aplicações. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos, buscando desenvolver soluções eficientes, escaláveis e intuitivas, enquanto evoluo como desenvolvedor de software.
 ---
 
 Tenho conhecimento em:  
 - **HTML | CSS | JavaScript | Typescript**
 - **Git | GitHub | Tailwind CSS | Vite | Prisma | Supabase**
-- **Aprendendo React.js | Next.js**
+- **Aprendendo React.js | Next.js | Agentes IA**
 
 Idiomas:
 - **Português Nativo**
