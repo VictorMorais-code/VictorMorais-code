@@ -20,6 +20,8 @@ Tenho experiência prática em projetos pessoais utilizando JavaScript, React, N
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais-code&layout=compact&langs_count=7&theme=react"/>
 </div>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6861b87f8380355be5e7e8b7?variant=dark" alt="roadmap.sh"/></a>
+
 ---
 
 ## 📫 Onde me encontrar?  
