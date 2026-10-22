@@ -7,7 +7,7 @@ Tenho experiência prática em projetos pessoais utilizando JavaScript, React, N
 ---
 
 Tenho conhecimento em:  
-- **HTML | CSS | JavaScript**
+- **HTML | CSS | JavaScript | Typescript**
 - **Git | GitHub | Tailwind CSS | Vite | Prisma | Supabase**
 - **Aprendendo React.js | Next.js**
 - **Inglês intermediário**
