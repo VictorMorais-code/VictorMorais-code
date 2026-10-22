@@ -1,9 +1,8 @@
-# Olá, eu sou o Victor!  
+## Olá, eu sou o Victor!  
 
-**Desenvolvedor de Software**
+Desenvolvedor de Software
 
 Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software. Tenho foco em desenvolvimento web com JavaScript, React e Next.js, além de interesse em inteligência artificial aplicada ao desenvolvimento de aplicações. Estou constantemente aprimorando minhas habilidades por meio de projetos práticos, buscando desenvolver soluções eficientes, escaláveis e intuitivas, enquanto evoluo como desenvolvedor de software.
----
 
 Tenho conhecimento em:  
 - **HTML | CSS | JavaScript | Typescript**
